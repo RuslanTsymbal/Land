@@ -1,0 +1,25 @@
+.page-header {
+  position: relative;
+}
+
+.header-content{
+  font-size: 36px;
+  line-height: 48px;
+
+  span {
+    color: #ffffff;
+  }
+
+  i {
+    color: #3ce3c7;
+    font-weight: 700;
+  }
+}
+
+
+.banner-top {
+  padding-top: 48px;
+  padding-bottom: 33px;
+  // background-color: #6267a0
+  background: url(../images/bg.jpg) center/cover no-repeat;
+}
